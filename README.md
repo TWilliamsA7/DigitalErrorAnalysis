@@ -20,6 +20,7 @@ This project was initially for my COT3100 Intro to Discrete Structures Final Pro
 - **Bose-Chaudhuri-Hocquenghem Codes** ⏬
     - Use generator polynomials and roots to transform and find errors within the data stream.
 - **Linear Feedback Shift Registers** ❓
+    - LFSRs were use throughout this process in generating the data stream and in generating the stream used to create errors in the stream
 
 ## :phone: Contact
 Tai Williams - twilliamsa776@gmail.com
